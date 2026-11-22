@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T21:50:52.617191+08:00",
-  "generated_at_display": "2026/11/21 21:50（台灣時間）",
+  "generated_at": "2026-11-22T09:50:42.803832+08:00",
+  "generated_at_display": "2026/11/22 09:50（台灣時間）",
   "source": "shop.petpark.com.tw",
   "count": 28,
   "listed": 14,
@@ -8,66 +8,6 @@
   "ok": 26,
   "fail": 2,
   "items": {
-    "wp012154": {
-      "sale": 2000,
-      "orig": 24790,
-      "stock": "out",
-      "qty": null,
-      "prev_sale": null,
-      "last_change": null,
-      "listed": false,
-      "category": "feeder",
-      "title": "PetSnowy snow 智能餵食器",
-      "stale": false
-    },
-    "wp015736": {
-      "sale": 2399,
-      "orig": 33520,
-      "stock": "in",
-      "qty": null,
-      "prev_sale": null,
-      "last_change": null,
-      "listed": true,
-      "category": "feeder",
-      "title": "Maogougo 按鍵藍芽版",
-      "stale": false
-    },
-    "wp008433": {
-      "sale": 5965,
-      "orig": 12851,
-      "stock": "in",
-      "qty": null,
-      "prev_sale": 4388,
-      "last_change": "2026/11/21",
-      "listed": true,
-      "category": "feeder",
-      "title": "Petkit SOLO 攝影版",
-      "stale": false
-    },
-    "wp015735": {
-      "sale": 4599,
-      "orig": 33523,
-      "stock": "in",
-      "qty": null,
-      "prev_sale": null,
-      "last_change": null,
-      "listed": true,
-      "category": "feeder",
-      "title": "Maogougo 視訊5G版",
-      "stale": false
-    },
-    "wp008434": {
-      "sale": 5888,
-      "orig": 12848,
-      "stock": "in",
-      "qty": null,
-      "prev_sale": 5588,
-      "last_change": "2026/11/21",
-      "listed": true,
-      "category": "feeder",
-      "title": "Petkit 雙子星 攝影版",
-      "stale": false
-    },
     "20853471": {
       "sale": 8990,
       "orig": 12905,
@@ -92,40 +32,88 @@
       "title": "Petkit 不鏽鋼餵食器 5L",
       "stale": false
     },
-    "wp012158": {
-      "sale": 12800,
-      "orig": 24778,
+    "wp006713": {
+      "sale": 5210,
+      "orig": 12860,
+      "stock": "in",
+      "qty": null,
+      "prev_sale": null,
+      "last_change": null,
+      "listed": true,
+      "category": "feeder",
+      "title": "Petkit&#x4F69;&#x5947;&#x20;&#x667A;&#x80FD;&#x5BF5;&#x7269;&#x9935;&#x98DF;&#x5668;SOLO&#x20;&#x6708;&#x5149;&#x767D;&#x20;&#x28;31.6&#x2A;16.7&#x2A;29.6&#x20;&#x516C;&#x5206;&#x29;",
+      "stale": false
+    },
+    "wp008433": {
+      "sale": 5965,
+      "orig": 12851,
+      "stock": "in",
+      "qty": null,
+      "prev_sale": 4388,
+      "last_change": "2026/11/21",
+      "listed": true,
+      "category": "feeder",
+      "title": "Petkit SOLO 攝影版",
+      "stale": false
+    },
+    "wp008434": {
+      "sale": 5888,
+      "orig": 12848,
+      "stock": "in",
+      "qty": null,
+      "prev_sale": 5588,
+      "last_change": "2026/11/21",
+      "listed": true,
+      "category": "feeder",
+      "title": "Petkit 雙子星 攝影版",
+      "stale": false
+    },
+    "wp012154": {
+      "sale": 2000,
+      "orig": 24790,
       "stock": "out",
       "qty": null,
       "prev_sale": null,
       "last_change": null,
       "listed": false,
-      "category": "litter",
-      "title": "PetSnowy 智慧貓砂盆 除臭款",
+      "category": "feeder",
+      "title": "PetSnowy snow 智能餵食器",
       "stale": false
     },
-    "wp013007": {
-      "sale": 15960,
-      "orig": 25153,
+    "wp015686": {
+      "sale": 12900,
+      "orig": 33122,
       "stock": "in",
       "qty": null,
-      "prev_sale": 12888,
-      "last_change": "2026/11/21",
+      "prev_sale": null,
+      "last_change": null,
       "listed": true,
-      "category": "litter",
-      "title": "Petkit MAX2 標準版",
+      "category": "feeder",
+      "title": "Panasonic&#x20;&#x53F0;&#x7063;&#x88FD;&#x5BF5;&#x7269;&#x667A;&#x80FD;&#x8907;&#x5408;&#x5F0F;&#x651D;&#x5F71;&#x98F2;&#x6C34;&#x9935;&#x98DF;&#x6A5F;&#x20;CP-JNF04-W",
       "stale": false
     },
-    "wp016808": {
-      "sale": 18788,
-      "orig": 35493,
-      "stock": "out",
+    "wp015735": {
+      "sale": 4599,
+      "orig": 33523,
+      "stock": "in",
       "qty": null,
-      "prev_sale": 17688,
-      "last_change": "2026/11/21",
-      "listed": false,
-      "category": "litter",
-      "title": "Petkit MAXPRO2 攝影版",
+      "prev_sale": null,
+      "last_change": null,
+      "listed": true,
+      "category": "feeder",
+      "title": "Maogougo 視訊5G版",
+      "stale": false
+    },
+    "wp015736": {
+      "sale": 2399,
+      "orig": 33520,
+      "stock": "in",
+      "qty": null,
+      "prev_sale": null,
+      "last_change": null,
+      "listed": true,
+      "category": "feeder",
+      "title": "Maogougo 按鍵藍芽版",
       "stale": false
     },
     "20761820": {
@@ -164,6 +152,18 @@
       "title": "Homerun 無線水泵飲水機三代",
       "stale": false
     },
+    "wp005304": {
+      "sale": 2488,
+      "orig": 12866,
+      "stock": "out",
+      "qty": null,
+      "prev_sale": 2388,
+      "last_change": "2026/11/21",
+      "listed": false,
+      "category": "fountain",
+      "title": "Petkit SOLO 2 無線馬達",
+      "stale": false
+    },
     "wp006712": {
       "sale": 1980,
       "orig": 12863,
@@ -174,30 +174,6 @@
       "listed": true,
       "category": "fountain",
       "title": "Petkit SOLO SE 無線馬達",
-      "stale": false
-    },
-    "wp010867": {
-      "sale": 1390,
-      "orig": 1390,
-      "stock": "in",
-      "qty": null,
-      "prev_sale": null,
-      "last_change": null,
-      "listed": true,
-      "category": "fountain",
-      "title": "Hu'RuRu 無線馬達飲水機",
-      "stale": false
-    },
-    "wp012155": {
-      "sale": 1599,
-      "orig": 24787,
-      "stock": "out",
-      "qty": null,
-      "prev_sale": null,
-      "last_change": null,
-      "listed": false,
-      "category": "fountain",
-      "title": "PetSnowy snow 智能飲水機",
       "stale": false
     },
     "wp008599": {
@@ -225,6 +201,66 @@
       "title": "Peile 水分子智能飲水機 2.2L",
       "stale": false
     },
+    "wp008961": {
+      "sale": 2250,
+      "orig": 25213,
+      "stock": "out",
+      "qty": null,
+      "prev_sale": null,
+      "last_change": null,
+      "listed": false,
+      "category": "fountain",
+      "title": "Peile 水分子智能飲水機 UV版",
+      "stale": false
+    },
+    "wp010867": {
+      "sale": 1390,
+      "orig": 1390,
+      "stock": "in",
+      "qty": null,
+      "prev_sale": null,
+      "last_change": null,
+      "listed": true,
+      "category": "fountain",
+      "title": "Hu'RuRu 無線馬達飲水機",
+      "stale": false
+    },
+    "wp011051": {
+      "sale": 4730,
+      "orig": 25267,
+      "stock": "in",
+      "qty": null,
+      "prev_sale": 3888,
+      "last_change": "2026/11/21",
+      "listed": true,
+      "category": "fountain",
+      "title": "Petkit W4X-UVC 循環活水機",
+      "stale": false
+    },
+    "wp011970": {
+      "sale": 5585,
+      "orig": 25183,
+      "stock": "in",
+      "qty": null,
+      "prev_sale": 3688,
+      "last_change": "2026/11/21",
+      "listed": true,
+      "category": "fountain",
+      "title": "Petkit MAX 真無線",
+      "stale": false
+    },
+    "wp012155": {
+      "sale": 1599,
+      "orig": 24787,
+      "stock": "out",
+      "qty": null,
+      "prev_sale": null,
+      "last_change": null,
+      "listed": false,
+      "category": "fountain",
+      "title": "PetSnowy snow 智能飲水機",
+      "stale": false
+    },
     "wp012213": {
       "sale": 1990,
       "orig": 25174,
@@ -235,6 +271,18 @@
       "listed": false,
       "category": "fountain",
       "title": "Homerun UVC殺菌無線水泵飲水機",
+      "stale": false
+    },
+    "wp013479": {
+      "sale": 4120,
+      "orig": 28720,
+      "stock": "out",
+      "qty": null,
+      "prev_sale": null,
+      "last_change": null,
+      "listed": false,
+      "category": "fountain",
+      "title": "Mattte UVC無線馬達飲水機 v1.2",
       "stale": false
     },
     "wp016908": {
@@ -250,30 +298,6 @@
       "stale": true,
       "error": "HTTP Error 404: Not Found"
     },
-    "wp008961": {
-      "sale": 2250,
-      "orig": 25213,
-      "stock": "out",
-      "qty": null,
-      "prev_sale": null,
-      "last_change": null,
-      "listed": false,
-      "category": "fountain",
-      "title": "Peile 水分子智能飲水機 UV版",
-      "stale": false
-    },
-    "wp005304": {
-      "sale": 2488,
-      "orig": 12866,
-      "stock": "out",
-      "qty": null,
-      "prev_sale": 2388,
-      "last_change": "2026/11/21",
-      "listed": false,
-      "category": "fountain",
-      "title": "Petkit SOLO 2 無線馬達",
-      "stale": false
-    },
     "wp019640": {
       "sale": 2380,
       "orig": 42827,
@@ -286,64 +310,40 @@
       "title": "petsee S1 Pro 雙無線飲水機",
       "stale": false
     },
-    "wp011970": {
-      "sale": 5585,
-      "orig": 25183,
-      "stock": "in",
-      "qty": null,
-      "prev_sale": 3688,
-      "last_change": "2026/11/21",
-      "listed": true,
-      "category": "fountain",
-      "title": "Petkit MAX 真無線",
-      "stale": false
-    },
-    "wp011051": {
-      "sale": 4730,
-      "orig": 25267,
-      "stock": "in",
-      "qty": null,
-      "prev_sale": 3888,
-      "last_change": "2026/11/21",
-      "listed": true,
-      "category": "fountain",
-      "title": "Petkit W4X-UVC 循環活水機",
-      "stale": false
-    },
-    "wp013479": {
-      "sale": 4120,
-      "orig": 28720,
+    "wp012158": {
+      "sale": 12800,
+      "orig": 24778,
       "stock": "out",
       "qty": null,
       "prev_sale": null,
       "last_change": null,
       "listed": false,
-      "category": "fountain",
-      "title": "Mattte UVC無線馬達飲水機 v1.2",
+      "category": "litter",
+      "title": "PetSnowy 智慧貓砂盆 除臭款",
       "stale": false
     },
-    "wp015686": {
-      "sale": 12900,
-      "orig": 33122,
+    "wp013007": {
+      "sale": 15960,
+      "orig": 25153,
       "stock": "in",
       "qty": null,
-      "prev_sale": null,
-      "last_change": null,
+      "prev_sale": 12888,
+      "last_change": "2026/11/21",
       "listed": true,
-      "category": "feeder",
-      "title": "Panasonic&#x20;&#x53F0;&#x7063;&#x88FD;&#x5BF5;&#x7269;&#x667A;&#x80FD;&#x8907;&#x5408;&#x5F0F;&#x651D;&#x5F71;&#x98F2;&#x6C34;&#x9935;&#x98DF;&#x6A5F;&#x20;CP-JNF04-W",
+      "category": "litter",
+      "title": "Petkit MAX2 標準版",
       "stale": false
     },
-    "wp006713": {
-      "sale": 5210,
-      "orig": 12860,
-      "stock": "in",
+    "wp016808": {
+      "sale": 18788,
+      "orig": 35493,
+      "stock": "out",
       "qty": null,
-      "prev_sale": null,
-      "last_change": null,
-      "listed": true,
-      "category": "feeder",
-      "title": "Petkit&#x4F69;&#x5947;&#x20;&#x667A;&#x80FD;&#x5BF5;&#x7269;&#x9935;&#x98DF;&#x5668;SOLO&#x20;&#x6708;&#x5149;&#x767D;&#x20;&#x28;31.6&#x2A;16.7&#x2A;29.6&#x20;&#x516C;&#x5206;&#x29;",
+      "prev_sale": 17688,
+      "last_change": "2026/11/21",
+      "listed": false,
+      "category": "litter",
+      "title": "Petkit MAXPRO2 攝影版",
       "stale": false
     }
   }
