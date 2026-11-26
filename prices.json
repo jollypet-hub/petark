@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T12:44:06.221376+08:00",
-  "generated_at_display": "2026/11/25 12:44（台灣時間）",
+  "generated_at": "2026-11-26T11:51:42.451193+08:00",
+  "generated_at_display": "2026/11/26 11:51（台灣時間）",
   "source": "shop.petpark.com.tw",
   "count": 28,
   "listed": 16,
@@ -190,12 +190,12 @@
       "error": "HTTP Error 404: Not Found"
     },
     "wp008960": {
-      "sale": 1980,
+      "sale": 1688,
       "orig": 25216,
       "stock": "in",
       "qty": null,
-      "prev_sale": null,
-      "last_change": null,
+      "prev_sale": 1980,
+      "last_change": "2026/11/26",
       "listed": true,
       "category": "fountain",
       "title": "Peile 水分子智能飲水機 2.2L",
